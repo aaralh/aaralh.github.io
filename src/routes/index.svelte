@@ -35,7 +35,7 @@
     <div class="content__info__contact">
       <h1 class="name">Aaro Alhainen</h1>
       <div class="job_title">Software Developer</div>
-      <div class="email">aaro.alhainen@gmail.com</div>
+      <div class="email">email@gmail.com</div>
     </div>
   </div>
   <div class="content__content">
