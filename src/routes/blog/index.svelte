@@ -1,34 +1,35 @@
-<script context="module">
-	export function preload({ params, query }) {
-		return this.fetch(`blog.json`).then(r => r.json()).then(posts => {
-			return { posts };
-		});
-	}
-</script>
-
 <script>
-	export let posts;
-</script>
+  import { onMount } from "svelte";
 
-<style>
-	ul {
-		margin: 0 0 1em 0;
-		line-height: 1.5;
-	}
-</style>
+  onMount(() => {
+    var container = document.getElementById("retainable-rss-embed");
+    if (container) {
+      var css = document.createElement("link");
+      css.href =
+        "https://www.retainable.io/assets/retainable/rss-embed/retainable.css";
+      css.rel = "stylesheet";
+      document.getElementsByTagName("head")[0].appendChild(css);
+      var script = document.createElement("script");
+      script.src =
+        "https://www.retainable.io/assets/retainable/rss-embed/retainable.js";
+      document.getElementsByTagName("body")[0].appendChild(script);
+    }
+  });
+</script>
 
 <svelte:head>
-	<title>Blog</title>
+  <title>Aaro Alhainen | Blog</title>
 </svelte:head>
 
 <h1>Recent posts</h1>
-
-<ul>
-	{#each posts as post}
-		<!-- we're using the non-standard `rel=prefetch` attribute to
-				tell Sapper to load the data for the page as soon as
-				the user hovers over the link or taps it, instead of
-				waiting for the 'click' event -->
-		<li><a rel='prefetch' href='blog/{post.slug}'>{post.title}</a></li>
-	{/each}
-</ul>
+<div>
+  <div
+    id="retainable-rss-embed"
+    data-rss="https://medium.com/feed/retainable,https://medium.com/feed/vue-mastery"
+    data-maxcols="3"
+    data-layout="grid"
+    data-poststyle="inline"
+    data-readmore="Read the rest"
+    data-buttonclass="btn btn-primary"
+    data-offset="-100" />
+</div>
