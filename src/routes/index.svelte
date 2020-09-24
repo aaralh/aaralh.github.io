@@ -58,9 +58,10 @@
     <h2>👨‍🔧Who I am?</h2>
     <p>
       Hi, I'm Aaro Alhainen - a Software Developer and CS student from Helsinki,
-      Finland. I work as Software Developer in a company that creates solutions
-      in field of Industrial IoT. Alongside my work I'm pushing my final CS
-      studies forward.
+      Finland. I have been working in industry for three and half years and
+      currently I'm a Software Developer in a company that creates solutions in
+      field of Industrial IoT. Alongside my work I'm pushing my final CS studies
+      forward.
     </p>
     <br />
     <h2>🛠️My skills?</h2>
@@ -81,12 +82,21 @@
       intelligence in general and recently also functional programming with
       language like Clojure. I will add some of the projects to Projects
       section(coming soon™️) with some insights. My other coding related
-      projects can be found from my <a href="https://github.com/aaralh" target="_blank">GitHub</a>.
+      projects can be found from my
+      <a href="https://github.com/aaralh" target="_blank">GitHub</a>
+      .
     </p>
     <p>
-      Besides coding and studies I like to <span>read📚,</span> listen <span>books🎧,</span> take <span>walks🚶‍♂️</span>
-      and go <span>boulder🧗‍♂️</span> with my friends. For year 2020 I set a goal to read more
-      and it has been successful and I'm trying to keep the habit going.
+      Besides coding and studies I like to
+      <span>read📚,</span>
+      listen
+      <span>books🎧,</span>
+      take
+      <span>walks🚶‍♂️</span>
+      and go
+      <span>boulder🧗‍♂️</span>
+      with my friends. For year 2020 I set a goal to read more and it has been
+      successful and I'm trying to keep the habit going.
     </p>
   </div>
 </div>
