@@ -39,7 +39,7 @@
 </style>
 
 <svelte:head>
-  <title>Aaro Alhainen</title>
+  <title>Aaro Alhainen | Software Developer</title>
 </svelte:head>
 
 <div class="content">
