@@ -25,10 +25,10 @@
 <div>
   <div
     id="retainable-rss-embed"
-    data-rss="https://medium.com/feed/retainable,https://medium.com/feed/vue-mastery"
+    data-rss="https://medium.com/feed/@aaro.alhainen"
     data-maxcols="3"
     data-layout="grid"
-    data-poststyle="inline"
+    data-poststyle="external"
     data-readmore="Read the rest"
     data-buttonclass="btn btn-primary"
     data-offset="-100" />
