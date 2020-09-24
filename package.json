@@ -12,7 +12,11 @@
     "test": "run-p --race dev cy:run"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "@fortawesome/free-brands-svg-icons": "^5.14.0",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
     "compression": "^1.7.1",
+    "fa-svelte": "^3.1.0",
     "polka": "next",
     "sirv": "^1.0.0"
   },

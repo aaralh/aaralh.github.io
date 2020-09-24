@@ -50,8 +50,8 @@
     </div>
     <div class="content__info__contact">
       <h1 class="name">Aaro Alhainen</h1>
-      <div class="job_title">Full Stack Developer</div>
-      <div class="email">email@gmail.com</div>
+      <div class="job_title">Full Stack Developer and CS student</div>
+      <!-- <div class="email">&lt;firstname&gt;.&lt;lastname&gt;@<span>gmail.com</span></div> -->
     </div>
   </div>
   <div class="content__content">
@@ -81,7 +81,7 @@
       intelligence in general and recently also functional programming with
       language like Clojure. I will add some of the projects to Projects
       section(coming soon™️) with some insights. My other coding related
-      projects can be found from my GitHub.
+      projects can be found from my <a href="https://github.com/aaralh" target="_blank">GitHub</a>.
     </p>
     <p>
       Besides coding and studies I like to <span>read📚,</span> listen <span>books🎧,</span> take <span>walks🚶‍♂️</span>

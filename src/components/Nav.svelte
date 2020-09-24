@@ -1,4 +1,8 @@
 <script>
+	import Icon from "fa-svelte/src/Icon.svelte";
+	import { faTwitter } from "@fortawesome/free-brands-svg-icons/faTwitter";
+	import { faLinkedin } from "@fortawesome/free-brands-svg-icons/faLinkedin";
+	import { faGithub } from "@fortawesome/free-brands-svg-icons/faGithub";
 	export let segment;
 </script>
 
@@ -6,6 +10,9 @@
 	nav {
 		font-weight: 300;
 		padding: 0 1em;
+
+		display: flex;
+		justify-content: space-between;
 	}
 
 	ul {
@@ -45,6 +52,19 @@
 		padding: 1em 0.5em;
 		display: block;
 	}
+
+	.social_links > li {
+		height: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.social_links > li > a {
+		padding: 0.5em;
+		font-size: 20px;
+		display: flex;
+	}
 </style>
 
 <nav>
@@ -55,5 +75,10 @@
 		<!-- for the blog link, we're using rel=prefetch so that Sapper prefetches
 		<li><a rel=prefetch aria-current="{segment === 'blog' ? 'page' : undefined}" href="blog">Blog</a></li>
 		     the blog data when we hover over the link or tap it on a touchscreen -->
+	</ul>
+	<ul class="social_links">
+		<li><a aria-label="GitHub" href="https://github.com/aaralh"><Icon icon={faGithub}/></a></li>
+		<li><a aria-label="LinkedIn" href="https://www.linkedin.com/in/aaro-alhainen-514170138"><Icon icon={faLinkedin}/></a></li>
+		<li><a aria-label="Twitter" href="https://twitter.com/AAlhainen"><Icon icon={faTwitter}/></a></li>
 	</ul>
 </nav>
