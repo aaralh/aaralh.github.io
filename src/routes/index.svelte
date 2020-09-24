@@ -66,12 +66,12 @@
     <br />
     <h2>🛠️My skills?</h2>
     <p>
-      I have broad Full Stack experience with technologies like Vue.js, NodeJS,
-      Nginx, Apache, PHP and MySQL. For JavaScript development I prefer
-      TypeScript but do frequently Vanilla JS when needed. In addition to Full
-      Stack I have also done mobile development for Android and iOS with Swift,
-      Java and Flutter with different kind of Back-End solutions. Other strong
-      language is Python which I use mostly with data processing and Neural
+      I have broad Full Stack experience with technologies like <strong>Vue.js</strong>, <strong>NodeJS</strong>,
+      <strong>Nginx</strong>, <strong>Apache</strong>, <strong>PHP</strong> and <strong>MySQL</strong>. For <strong>JavaScript</strong> development I prefer
+      <strong>TypeScript</strong> but do frequently Vanilla JS when needed. In addition to Full
+      Stack I have also done mobile development for <strong>Android</strong> and <strong>iOS</strong> with <strong>Swift</strong>,
+      <strong>Java</strong> and <strong>Flutter</strong> with different kind of Back-End solutions. Other strong
+      language is <strong>Python</strong> which I use mostly with data processing and Neural
       Networks/Machine Learning with Keras and TensorFlow.
     </p>
     <br />
@@ -80,7 +80,7 @@
       I'm eager to learn new things and train myself to be a better developer.
       My long time point of interest have been Machine Learning/Artificial
       intelligence in general and recently also functional programming with
-      language like Clojure. I will add some of the projects to Projects
+      language like <strong>Clojure</strong>. I will add some of the projects to Projects
       section(coming soon™️) with some insights. My other coding related
       projects can be found from my
       <a href="https://github.com/aaralh" target="_blank">GitHub</a>
