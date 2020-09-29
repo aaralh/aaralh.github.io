@@ -27,7 +27,7 @@
 <div>
   <div
     id="retainable-rss-embed"
-    data-rss="https://medium.com/feed/@aaro.alhainen"
+    data-rss="https://medium.com/feed/@aaro.alhainen?t={Date.now()}"
     data-maxcols="3"
     data-layout="grid"
     data-poststyle="external"
