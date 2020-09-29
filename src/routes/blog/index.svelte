@@ -22,7 +22,7 @@
 </svelte:head>
 
 <h1>Recent posts</h1>
-<p>Here are some of my published stories on <a href="https://medium.com/@aaro.alhainen" target="_blank">Medium</a>.</p>
+<p>Here are some of my published stories on <a href="https://medium.com/@aaro.alhainen" target="_blank" rel="noreferrer">Medium</a>.</p>
 <br>
 <div>
   <div
