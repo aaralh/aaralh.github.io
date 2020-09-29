@@ -82,7 +82,7 @@
       language like <strong>Clojure</strong>. I will add some of the projects to Projects
       section(coming soon™️) with some insights. My other coding related
       projects can be found from my
-      <a href="https://github.com/aaralh" target="_blank" rel="noreferrer">GitHub</a>
+      <a href="https://github.com/aaralh" target="_blank" rel="noopener">GitHub</a>
       .
     </p>
     <p>
