@@ -57,21 +57,45 @@
     <h2>👨‍🔧Who I am?</h2>
     <p>
       Hi, I'm Aaro Alhainen - a Software Developer and CS student from Helsinki,
-      Finland. I have been working in industry for three and half years and
-      currently I'm a Software Developer in a company that creates solutions in
-      field of Industrial IoT. Alongside my work I'm pushing my final CS studies
-      forward.
+      Finland. I have been working in the industry for three and a half years
+      and currently I'm a Software Developer in a company that creates solutions
+      in the field of Industrial IoT. Alongside my work, I'm pushing my final CS
+      studies forward.
     </p>
     <br />
     <h2>🛠️My skills?</h2>
     <p>
-      I have broad Full Stack experience with technologies like <strong>Vue.js</strong>, <strong>NodeJS</strong>,
-      <strong>Nginx</strong>, <strong>Apache</strong>, <strong>PHP</strong> and <strong>MySQL</strong>. For <strong>JavaScript</strong> development I prefer
-      <strong>TypeScript</strong> but do frequently Vanilla JS when needed. In addition to Full
-      Stack I have also done mobile development for <strong>Android</strong> and <strong>iOS</strong> with <strong>Swift</strong>,
-      <strong>Java</strong> and <strong>Flutter</strong> with different kind of Back-End solutions. Other strong
-      language is <strong>Python</strong> which I use mostly with data processing and Neural
-      Networks/Machine Learning with Keras and TensorFlow.
+      I have broad Full Stack experience with technologies like
+      <strong>Vue.js</strong>
+      ,
+      <strong>NodeJS</strong>
+      ,
+      <strong>Nginx</strong>
+      ,
+      <strong>Apache</strong>
+      ,
+      <strong>PHP,</strong>
+      and
+      <strong>MySQL</strong>
+      . For
+      <strong>JavaScript</strong>
+      development I prefer
+      <strong>TypeScript</strong>
+      but do frequently Vanilla JS when needed. In addition to Full Stack, I have
+      also done mobile development for
+      <strong>Android</strong>
+      and
+      <strong>iOS</strong>
+      with
+      <strong>Swift</strong>
+      ,
+      <strong>Java,</strong>
+      and
+      <strong>Flutter</strong>
+      with different kinds of Back-End solutions. Another strong language is
+      <strong>Python</strong>
+      which I use mostly with data processing and Neural Networks/Machine
+      Learning with Keras and TensorFlow.
     </p>
     <br />
     <h2>🏡How about my free time?</h2>
@@ -79,22 +103,25 @@
       I'm eager to learn new things and train myself to be a better developer.
       My long time point of interest have been Machine Learning/Artificial
       intelligence in general and recently also functional programming with
-      language like <strong>Clojure</strong>. I will add some of the projects to Projects
-      section(coming soon™️) with some insights. My other coding related
-      projects can be found from my
-      <a href="https://github.com/aaralh" target="_blank" rel="noopener">GitHub</a>
+      language like
+      <strong>Clojure</strong>
+      . I will add some of the projects to the Projects section(coming soon™️) with
+      some insights. My other coding-related projects can be found in my
+      <a href="https://github.com/aaralh" target="_blank" rel="noopener">
+        GitHub
+      </a>
       .
     </p>
     <p>
-      Besides coding and studies I like to
+      Besides coding and studies, I like to
       <span>read📚,</span>
-      listen
+      listen to
       <span>books🎧,</span>
       take
       <span>walks🚶‍♂️</span>
       and go
       <span>boulder🧗‍♂️</span>
-      with my friends. For year 2020 I set a goal to read more and it has been
+      with my friends. For the year 2020, I set a goal to read more and it has been
       successful and I'm trying to keep the habit going.
     </p>
   </div>
