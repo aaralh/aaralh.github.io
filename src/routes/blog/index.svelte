@@ -31,7 +31,7 @@
     data-maxcols="3"
     data-layout="grid"
     data-poststyle="external"
-    data-readmore="Read the rest"
+    data-readmore="Read the full story"
     data-buttonclass="btn btn-primary"
     data-offset="-100" />
 </div>
