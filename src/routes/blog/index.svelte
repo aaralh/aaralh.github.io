@@ -22,12 +22,12 @@
 </svelte:head>
 
 <h1>Recent posts</h1>
-<p>Here are some of my published stories on <a href="https://medium.com/@aaro.alhainen" target="_blank" rel="noopener">Medium</a>.</p>
+<p>Here are some of my published stories on <a href="https://aaroalhainen.medium.com/" target="_blank" rel="noopener">Medium</a>.</p>
 <br>
 <div>
   <div
     id="retainable-rss-embed"
-    data-rss="https://medium.com/feed/@aaro.alhainen?t={Date.now()}"
+    data-rss="https://medium.com/feed/@aaroalhainen?t={Date.now()}"
     data-maxcols="3"
     data-layout="grid"
     data-poststyle="external"
