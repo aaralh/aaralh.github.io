@@ -57,9 +57,9 @@
     <h2>👨‍🔧Who I am?</h2>
     <p>
       Hi, I'm Aaro Alhainen - a Software Developer and CS student from Helsinki,
-      Finland. I have been working in the industry for three and a half years
-      and currently I'm a Software Developer in a company that creates solutions
-      in the field of Industrial IoT. Alongside my work, I'm pushing my final CS
+      Finland. I have been working in the industry since 2017
+      and currently I'm a Software Developer in a company which provides world 
+      leading Sales Acceleration Platform. Alongside my work, I'm pushing my final CS
       studies forward.
     </p>
     <br />
@@ -74,8 +74,8 @@
       ,
       <strong>Apache</strong>
       ,
-      <strong>PHP,</strong>
-      and
+      <strong>PHP</strong>
+      , and
       <strong>MySQL</strong>
       . For
       <strong>JavaScript</strong>
@@ -89,8 +89,8 @@
       with
       <strong>Swift</strong>
       ,
-      <strong>Java,</strong>
-      and
+      <strong>Java</strong>
+      , and
       <strong>Flutter</strong>
       with different kinds of Back-End solutions. Another strong language is
       <strong>Python</strong>
