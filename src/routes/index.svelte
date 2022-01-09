@@ -70,11 +70,11 @@
       ,
       <strong>NodeJS</strong>
       ,
+      <strong>Django</strong>
+      ,
       <strong>Nginx</strong>
       ,
       <strong>Apache</strong>
-      ,
-      <strong>PHP</strong>
       , and
       <strong>MySQL</strong>
       . For
