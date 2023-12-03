@@ -11,6 +11,6 @@
 
 <div class="footer">
 	<div class="copyright">
-		© 2022 Aaro Alhainen
+		© 2023 Aaro Alhainen
 	</div>
 </div>
